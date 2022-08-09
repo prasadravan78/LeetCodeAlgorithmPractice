@@ -23,9 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeAlgorithmDay5Progra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeAlgorithmDay5Program2", "LeetCodeAlgorithmDay5Program2\LeetCodeAlgorithmDay5Program2.csproj", "{CDF9C017-5153-4ED3-8F4E-A44C9C90D5C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeAlgorithmDay7Program1", "LeetCodeAlgorithmDay7Program1\LeetCodeAlgorithmDay7Program1.csproj", "{DC25CB78-A8A7-4050-9CC5-B93EFFD087AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeAlgorithmDay7Program1", "LeetCodeAlgorithmDay7Program1\LeetCodeAlgorithmDay7Program1.csproj", "{DC25CB78-A8A7-4050-9CC5-B93EFFD087AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeAlgorithmDay7Program2", "LeetCodeAlgorithmDay7Program2\LeetCodeAlgorithmDay7Program2.csproj", "{A9189305-995D-4B2A-8C73-5E18181C6C7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeAlgorithmDay7Program2", "LeetCodeAlgorithmDay7Program2\LeetCodeAlgorithmDay7Program2.csproj", "{A9189305-995D-4B2A-8C73-5E18181C6C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeAlgorithmDay9Program1", "LeetCodeAlgorithmDay9Program1\LeetCodeAlgorithmDay9Program1.csproj", "{A74B9BD7-02F2-4F75-90A2-246BCB1C9126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeAlgorithmDay9Program2", "LeetCodeAlgorithmDay9Program2\LeetCodeAlgorithmDay9Program2.csproj", "{1B95ECF8-C981-4863-8795-B1C8A8AB36BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{A9189305-995D-4B2A-8C73-5E18181C6C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9189305-995D-4B2A-8C73-5E18181C6C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9189305-995D-4B2A-8C73-5E18181C6C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74B9BD7-02F2-4F75-90A2-246BCB1C9126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74B9BD7-02F2-4F75-90A2-246BCB1C9126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74B9BD7-02F2-4F75-90A2-246BCB1C9126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74B9BD7-02F2-4F75-90A2-246BCB1C9126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B95ECF8-C981-4863-8795-B1C8A8AB36BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B95ECF8-C981-4863-8795-B1C8A8AB36BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B95ECF8-C981-4863-8795-B1C8A8AB36BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B95ECF8-C981-4863-8795-B1C8A8AB36BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
