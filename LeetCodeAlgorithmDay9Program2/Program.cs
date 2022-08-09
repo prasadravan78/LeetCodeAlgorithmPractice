@@ -64,7 +64,6 @@
 
                     count--;
                 }
-                
 
                 minutes++;
             }
